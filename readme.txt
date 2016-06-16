@@ -5,4 +5,4 @@ clear the cache
 test this in web browser (I was using local machine for development http://localhost/examp))
 
 
-ref:- http://wiki.workassis.com/drupal-8-creating-custom-module/
+ref:- http://wiki.workassis.com/drupal-8-creating-custom-module-from-scratch/
